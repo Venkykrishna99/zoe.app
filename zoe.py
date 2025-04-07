@@ -23,7 +23,7 @@ def set_bg(local_image_file):
             </style>
         """, unsafe_allow_html=True)
 
-set_bg("WhatsApp.jpg")
+set_bg("image2.jpg")
 
 # Particle animation
 st.markdown("""
