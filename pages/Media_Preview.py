@@ -12,4 +12,4 @@ with col2:
     st.subheader("🎥 Video")
     st.video("video.mp4")
 
-st.image("image.jpg")
+st.balloons()
